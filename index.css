@@ -1,0 +1,19 @@
+h1{
+    color:red;
+}
+
+p{
+    color:green;
+}
+
+#selected{
+    color:brown;
+}
+
+.mark{
+    color:blue;
+}
+
+header p {
+    color:yellow;
+}
